@@ -1,0 +1,2 @@
+1. Change base_url in app/core/Config.php
+2. Optional - Update your database in app/core/Model.php
